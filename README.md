@@ -1,11 +1,11 @@
-# MyMovies - zadanie rekrutacyjne
+# MyMovies
 
 MyMovies is a web app made in Vue.js. It allows to edit SQLite database(movie list) by communicating with C# .NET Api.
 
 
-## Instalacja i uruchamianie
+## Installation and startup
 
-### Serwer API
+### Server API
 
 In `Api` folder open PowerShell and run commands:
 
@@ -13,7 +13,7 @@ In `Api` folder open PowerShell and run commands:
 
 `dotnet run`
 
-### Aplikacja webowa
+### Web Application
 
 In `Web` folder open PowerShell and run commands:
 
